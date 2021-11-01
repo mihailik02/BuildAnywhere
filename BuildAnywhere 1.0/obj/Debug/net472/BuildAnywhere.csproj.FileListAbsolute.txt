@@ -1,0 +1,6 @@
+C:\Users\Fill_Morgan\Desktop\Новая папка (3)\obj\Debug\net472\BuildAnywhere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fill_Morgan\Desktop\Новая папка (3)\obj\Debug\net472\BuildAnywhere.csproj.CoreCompileInputs.cache
+C:\Users\Fill_Morgan\Desktop\Новая папка (3)\bin\Debug\net472\BuildAnywhere.dll
+C:\Users\Fill_Morgan\Desktop\Новая папка (3)\bin\Debug\net472\BuildAnywhere.pdb
+C:\Users\Fill_Morgan\Desktop\Новая папка (3)\obj\Debug\net472\BuildAnywhere.dll
+C:\Users\Fill_Morgan\Desktop\Новая папка (3)\obj\Debug\net472\BuildAnywhere.pdb
